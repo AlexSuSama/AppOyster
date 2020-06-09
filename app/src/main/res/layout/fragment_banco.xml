@@ -1,0 +1,116 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="br.navegasaberes.app.fragments.BancoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/NomeUsuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primaryLightColor"
+            android:padding="10dp"
+            android:text="Nome completo"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/editTextNome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Digite seu nome"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/EndUsuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primaryLightColor"
+            android:padding="10dp"
+            android:text="Endereço"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/editTextEnd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Digite seu endereço"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/telefoneUsuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primaryLightColor"
+            android:padding="10dp"
+            android:text="Telefone"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/editTextTelefone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Digite seu telefone"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/Email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primaryLightColor"
+            android:padding="10dp"
+            android:text="Email"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/editTextEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="exemplo@email.com"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/ideia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primaryLightColor"
+            android:padding="10dp"
+            android:text="Sugestão"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/editTextSugestao"
+            android:layout_width="match_parent"
+            android:layout_height="161dp"
+            android:ems="10"
+            android:hint="Deixe a sua sugestão aqui da forma mais clara que você puder"
+            android:inputType="textMultiLine" />
+
+        <Button
+            android:id="@+id/btnSendMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enviar" />
+
+    </LinearLayout>
+    </ScrollView>
+</FrameLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo01">Como as ostras se locomovem? </string>
+    <string name="titulo02">Quantos anos vive uma ostra?</string>
+    <string name="titulo03">Como as ostras se reproduzem?</string>
+    <string name="titulo04">Qual a maior ostra do mundo?</string>
+    <string name="titulo05">Como as ostras produzem pérolas?</string>
+    <string name="titulo06">Qual a maior pérola do mundo?</string>
+
+    <string name="cuidado_titulo_01">Perigos físicos</string>
+    <string name="cuidado_titulo_02">Perigos quimícos</string>
+    <string name="cuidado_titulo_03">Perigos biológicos</string>
+    <string name="cuidado_titulo_00">Cuidados com as ostras</string>
+
+
+    <string name="vidautil_titulo_00">Armazenando as ostras na geladeira</string>
+    <string name="vidautil_titulo_01">Não abra e nem lave</string>
+    <string name="vidautil_titulo_02">Despeje gelo em uma tigelinha ou outro recipiente aberto</string>
+    <string name="vidautil_titulo_03">Coloque as ostras sobre a camada de gelo</string>
+    <string name="vidautil_titulo_04">Cubra as com um pano de patro umedecido em agua fria</string>
+    <string name="vidautil_titulo_05">Leve o recipiente a geladeira</string>
+
+    <string name="vidautil_titulo_06">Deixe-as na concha e lave-as</string>
+    <string name="vidautil_titulo_07">Coloque as ostras em um recipiente para o freezer</string>
+    <string name="vidautil_titulo_08">Guarde as ostras no freezer </string>
+
+
+    <string name="historico_ostra_mundo_titulo">História do cultivo de ostra</string>
+    <string name="historico_ostra_brasil_titulo">História do cultivo de ostra no Brasil</string>
+    <string name="historico_ostra_para_titulo">História do cultivo de ostra no Pará</string>
+
+
+    <string name="receita_01_ostra_gratinada">OSTRA GRATINADA</string>
+    <string name="receita_02_ostra_com_molho_de_pimenta_e_laranja"> OSTRA COM MOLHO DE PIMENTA E LARANJA</string>
+    <string name="receita_03_ostra_com_vinagre_de_coco">OSTRA COM VINAGRE DE COCO</string>
+    <string name="receita_04_salada_de_macarrao_com_ostra_defumada">SALADA DE MACARRÃO COM OSTRA DEFUMADA</string>
+    <string name="receita_05_ostra_a_moda_do_chefe">OSTRA A MODA DO CHEFE</string>
+
+
+    <string name="sampaio">NO RITMO DA MARÉ: CULTIVOS DE OSTRA NO NORTE PARAENSE</string>
+    <string name="ostra_do_mangue">CRESCIMENTO DA OSTRA DO MANGUE</string>
+    <string name="negocio_sebrae">COMO MONTAR UM NEGÓCIO PARA CRIAÇÃO DE OSTRA</string>
+    <string name="ostra_nativa">AVALIAÇÃO DO CRESCIMENTO DA OSTRA NATIVA</string>
+    <string name="ostra_de_alagoas">CULTIVO DE OSTRAS EM ALAGOAS</string>
+    <string name="influensia_da_salinidade">INFLUÊNCIA DA SALINIDADE SOBRE A SOBREVIVÊNCIA E CRESCIMENTO DE Crassostrea gasar</string>
+    <string name="residuo_solido">RESIDUO SÓLIDO DA MALACOCULTURA: CARACTERIZAÇÃO E
+POTENCIALIDADE DE UTILIZAÇÃO DE CONCHAS DE OSTRAS</string>
+</resources>

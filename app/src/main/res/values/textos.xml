@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="oque_e_ostra">O que é uma ostra</string>
+
+    <string name="oque_e_ostra_texto">As ostras são moluscos pertencentes à família Ostreidade e à ordem Ostreoida. Estes moluscos se desenvolvem em águas marinhas dentro de conchas de formatos irregulares e desiguais entre si. Estas conchas são muito calcificadas e se mantêm fechadas graças a um músculo adutor. Seu corpo é mole e é constituído de boca, estômago, coração, intestino, rins, gônadas (órgãos sexuais), guelras, músculo adutor, ânus e manto.
+A ostra se alimenta filtrando a agua e retirando dela o placton, algas e pequenos nutrientes em suspensão
+
+Apesar da aparência não muito agradável, a ostra é um molusco muito apreciado na culinária por diversos povos (há evidências de caçadores de ostras em várias civilizações costeiras da pré-história). É um animal rico em zinco, um dos nutrientes requeridos para a produção de testosterona (hormônio masculino).
+</string>
+    <string name="texto01"> Em suma as ostras são animais que se locomovem pelas correntes e marés ainda jovens, mas a maior parte da sua vida está presente no substrato marinho. Sua concha formada por carbonato de cálcio se torna densa rapidamente e isso lhe confere um peso para que mantenha do fundo oceânico</string>
+    <string name="texto02">A ostra denominada Arctica islandica, que habita regiões de águas muito frias - como o Oceano Ártico - vive, em média, 400 anos. Ela é um molusco bivalve. “Em águas mais frias, o metabolismo é bem lento. Daí todos os processos são lentos e o animal acaba demorando para morrer”, explica o professor da veterinária da UFMG, Leonardo Lara. O professor diferencia as ostras comerciais das destinadas à alimentação. “As ostras comerciais, que produzem as pérolas, vivem, em média, de 50 a 100 anos. Já as ostras que são para a alimentação, geralmente são abatidas entre dezoito e trinta meses desde o seu nascimento</string>
+
+    <string name="texto03">As ostras se reproduzem sexuadamente, só que cada animal é alternadamente macho e fêmea. Quer dizer, numa estação de reprodução a ostra produz espermatozoides, na outra produz óvulos. Quando a temperatura da água atinge 20 graus Celsius, elas entram em reprodução, e a ostra macho solta espermatozoides na água, que são absorvidos pelas fêmeas, fecundando os óvulos. Então a fêmea expele as larvas, que boiam na água como parte do plâncton, até atingirem um local de fixação. Uma vez fixadas, ficam naquele local para sempre.</string>
+
+    <string name="texto04">A crassostrea gigas conhecida como ostra do pacifico é como o nome diz nativa das costas do oceano pacifico podendo alcançar um tamanho entre 8 a 40 cm. A maior ostra do pacifco foi encontrada em 2013 por uma bióloga na Dinamarca, com sua concha medindo cerca de 36cm de comprimento e 10cm de largura, conferindo ao molusco um lugar no livro dos recordes.</string>
+
+    <string name="texto05">A produção da pérola pela ostra nada mais é do que um mecanismo de defesa do animal, quando ocorre a penetração de corpos estranhos, como grãos de areia, parasitas, pedaços de coral ou rocha, entre a concha e o manto. Quando esse corpo estranho está no interior da ostra, o manto do animal envolve essa partícula em uma camada de células epidérmicas, que produzem sobre ela várias camadas de nácar, originando a pérola. O processo de fabricação de uma pérola pela ostra demora em média três anos, e geralmente elas são retiradas com 12 mm de diâmetro.
+Algumas pessoas cultivam ostras para a fabricação de pérolas. Para que isso ocorra basta inserir no interior da ostra pequenas partículas, como bolinhas de plástico ou pedaços de moluscos para estimular a produção da pérola pelo animal.
+As pérolas podem ser de várias cores, como rosa, vermelha ou azul, e essas cores se devem a detritos, proteínas ou à cor interna da concha do animal. A pérola mais rara que existe é a pérola negra, e ela pode ser encontrada no Taiti e nas ilhas Cook. Pérolas irregulares não têm muito valor comercial, mas algumas em forma de gota, lágrima ou cone, são utilizadas em algumas joias.
+</string>
+    <string name="texto06">Em 2016 um pescador filipino entregou as autoridades do pais uma perola de cerca de 34 kg medindo cerca de 30,5 centimetros de largura e 67 centimentros de comprimento estimada na época  em aproximadamente 100 mil dólares.
+O mais curioso é que o pescador assim que a encontrou a guardou por dois anos em baixo da sua cama como um amuleto de boa sorte.
+</string>
+    <string name="cuidado_texto01">Os perigos físicos estão relacionados a ingestão de fragmentos de concha, pois o organismo humano não pode digerir sua estrutura calcificada. Desse modo é possível que um consumidor desenvolva algum problema gastrointestinal.</string>
+    <string name="cuidado_texto02"> Assim como pode ocorrer em outros animais a carne da ostra também pode ficar contaminada com agrotóxicos que foram despejados incorretamente em fontes de água, por esse motivo é necessário que o cultivo de ostra seja feito em uma área na qual não haja plantações que fazem uso desses tipos de fertilizante.</string>
+
+    <string name="cuidado_texto03">O maior cuidado que produtores e consumidores devem tomar ao produzirem e consumirem respectivamente as ostras está relacionado a proliferação de microrganismos como as bactérias. Esses microrganismos unicelulares podem ser vistos apenas como a ajuda de um microscópio. As bactérias podem ser encontradas em praticamente todos os lugares, na terra, no ar na água e até mesmo no corpo humano. Em alguns casos as bactérias podem entrar no corpo de algum organismo através da sua alimentação por isso é necessário ter um cuidado maior ao lidar com ostras, pois o ambiente no qual elas estão sendo criadas, a água, pode conter bactérias que a contaminarão e poderão contaminar futuros consumidores.</string>
+
+    <string name="cuidado_texto00">A produção de ostras, seja através da sua extração em bancos naturais ou da implantação de estruturas de cultivo, é uma fonte de renda importante para a economia de muitas comunidades ribeirinhas espalhadas ao longo da costa brasileira
+Para que um alimento seguro possa ser ofertado à população, medidas de controle higiênico-sanitário devem ser implantadas por produtores e comerciantes de ostras, tais como acompanhamento das condições químicas, físicas e microbiológicas do ambiente de origem, manipulação higiênica após extração, uso correto da cadeia de frio, entre outros. As ostras podem conter riscos a saúde, perigos físicos químicos e biológicos
+</string>
+
+
+    <string name="vidautil_texto00"></string>
+    <string name="vidautil_texto01">Ao abrir a concha da ostra aumente  consideravelmente a chance da ostra estragar antes de você conseguir consumir. E deixar as impurezas nas ostra evita o seu ressecamento e ajuda a proteger a carne</string>
+    <string name="vidautil_texto02">Pode ser feito utilizando uma bolsa térmica ou um pote ou algum outro recipiente que possa ir aberto para a geladeira</string>
+    <string name="vidautil_texto03">Coloque-as de um jeito parecido com as bancas de peixe, e se quiser manter a suculência do animal é muito importante deixa-las de ponta cabeça, ou seja com o lado mais retinho para cima.</string>
+    <string name="vidautil_texto04">Colocar um pano umedecido por cobrindo o recipiente evita o ressecamento das ostras</string>
+    <string name="vidautil_texto05">Se possível mantenha a temperatura da geladeira entre 2 e 4 °C e coloque acima das prateleiras com carne para evitar uma contaminação. Desse modo é possível conservar as ostras por até dois dias dentro da geladeira mantendo o seu sabor.</string>
+    <string name="vidautil_texto06">Ao contrário do processo descrito acima é necessário nesse precisamos lava-las em agua fria, desse modo prevenimos a contaminação por bactérias.</string>
+    <string name="vidautil_texto07">Para conserva-las é necessário coloca-las em um recipiente plástico que aguente baixas temperaturas </string>
+    <string name="vidautil_texto08">Se você fez todo o processo direitinho as ostras devem duras de dois a três meses. Mas é claro que após todo esse período dentro do congelador o seu sabor vai mudar.</string>
+
+    <string name="historico_ostra_mundo">O cultivo de ostra é uma atividade muito antiga, acredita-se que o primeiro povo a fazer cultivo de ostra foram os romanos no século I a.c na península italiana. Porém durante o período das invasões barbaras a cultura de ostra no mediterrâneo e no atlântico entrou em declínio. E apenas em 1852 Monsier de Bon começou a repovoar os canteiros de ostra utilizando apanhadores improvisados. Um passo importante para a moderna criação de ostras foi a fazenda de ostras construída por Hyacinthe Boeuf na ilha de Ré. Depois de obter os direitos de uma parte da costa, ele construiu um muro para fazer um reservatório e quebrar a força da corrente. Algum tempo depois, a parede foi coberta com uma brisa vinda espontaneamente do mar, que deu 2000 ostras por metro quadrado</string>
+    <string name="historico_ostra_brasil">No brasil existem registros literários da produção de ostra datando de a 1934. Porém os primeiros exemplares de ostra do pacifico foram importados da Grã-Bretanha no ano de 1974, pelo Instituto de Pesquisas da Marinha de Cabo Frio no Rio de J	aneiro.  No início dos anos 80 houve o primeiro projeto comercial de cultivo de ostra implantado em Cananéia (SP) pela empresa SOSTROMAR. </string>
+    <string name="historico_ostra_para">A possibilidade de criação de ostras no Estado do Pará surgiu em abril de 2001 através de um projeto de pesquisa financiado pela Secretaria Executiva de Ciência e Tecnologia e Meio Ambiente (SECTAM), para a compra de equipamentos e instalação de um cultivo piloto no município de Augusto Corrêa. Desde 2006, existem sete cultivos em cinco municípios com uma produção aproximada de 38 toneladas segundo o IBGE (2016), funcionando como uma excelente alternativa de renda para famílias ribeirinhas.</string>
+
+    <string name="receita_01_ostra_gratinada_texto">INGREDIENTES\n
+(entrada para 6 pessoas)\n
+– 12 ostras frescas\n
+– 2 gemas de ovo\n
+– 6 colheres (sopa) de espumante\n
+– pimenta-do-reino a gosto\n
+– raspas de limão \n\n
+MODO DE PREPARO:\n\n
+Como as ostras serão gratinadas, uma dica que dou para abrí-las com mais facilidade, é colocá-las em forno bem quente (pré-aquecido a 240 graus), por uns 7 minutos, ou até que elas comecem a abrir sozinhas. Este método não é indicado caso você vá consumir as ostras cruas, porque elas começam a cozinhar ligeiramente no forno.\n
+Com o auxílio de uma faca com ponta, abra as ostras enquanto ainda estiverem quentes (use um pano de prato para segurá-las e não queimar as mãos). Descarte toda a água que está dentro da concha pois ela é muito salgada. Com a ponta da faca, desprenda o molusco da concha para facilitar na hora de comer. Disponha cada ostra em um refratário forrado com bastante sal grosso. Isso ajudará a manter as conchas equilibradas para que o molho que colocaremos depois não vase.\n
+Para preparar o sabayon, misture em uma tigela as gemas, a pimenta-do-reino, as rapas de limão e o espumante. Leve essa mistura em banho-maria e bata com um fouet por cerca de 5 minutos, até obter um creme fofinho e aerado. Retire do banho-maria e continue a bater até que o fundo da tigela esfrie.\n
+Disponha o sabayon sobre cada ostra e leve para gratinar. Fique de olho, o tempo varia de forno para forno, mas é coisa rápida, cerca de 3 a 4 minutinhos.\n
+Fonte: <a href="http://www.platdujour.com.br/ostras-gratinadas/"> Platdujour</a>
+</string>
+
+    <string name="receita_02_ostra_com_molho_de_pimenta_e_laranja_texto">
+
+        INGREDIENTES\n
+
+        - 1 pedaço de 5 cm de gengibre sem casca\n
+        - 1 laranja pequena\n
+        - 1 limão verde\n
+        - ½ pimentão vermelho\n
+        - 1 pimenta verde – tipo dedo de moça\n
+        - Um punhado de coentro\n
+        - 1 colher de sopa de azeite de oliva\n
+        - Pimenta do reino moída na hora\n
+        - Vinagre\n\n
+MODO DE PREPARO:\n\n
+Coloque o gengibre, pimentão, pimenta e coentro num processador e bata para que fique tudo bem picado. Alternativamente rale o gengibre, e ponha juntamente com os outros ingredientes num pilão e triture. Depois acrescente o azeite de oliva, suco de uma laranja (coloque só metade da laranja a princípio e vá acrescentando mais de acordo com o seu paladar), suco do limão (mesmo procedimento que o suco de laranja), pimenta do reino e vinagre de Xerés. Misture bem. Acrescente um pouco de sal se achar necessário.\n
+Na hora de servir é só colocar nas ostras e se deliciar.\n
+Fonte: http://trembom.com/ostras-com-molho-de-laranja-e-pimenta/\n
+
+    </string>
+    <string name="receita_03_ostra_com_vinagre_de_coco_texto">
+
+        INGREDIENTES\n
+6 ostras\n
+VINAGRETE\n
+1 xícara de polpa de coco verde cortada em cubinhos\n
+1 colher (sopa) de salsinha laminada\n
+1 colher (sopa) de pimenta dedo-de-moça laminada sem semente\n
+raspas de um limão \n
+azeite e flor de sal a gosto\n\n
+MODO DE PREPARO\n\n
+VINAGRETE\n
+Misture todos os ingredientes. Ajuste o sal, regue com azeite.\n\n
+Fonte: http://www.cozinhadamatilde.com.br/ostras-com-vinagrete-de-coco/\n
+
+    </string>
+<string name="receita_04_salada_de_macarrao_com_ostra_defumada_texto">
+
+    INGREDIENTES\n
+250 g de macarrão (usei o Ruote, da Barilla, mas pode ser outra massa curta)\n
+200 g de ostra defumada (usei a conservada em óleo da Marithimus)\n
+1/2 xícara (de chá) de azeitona recheada\n
+1 xícara (de chá) de tomates cereja\n
+3 colheres (de sopa) de cheiro verde picado\n
+Pimenta do reino moída na hora\n
+Sal a gosto\n
+1 colher (de sopa) de azeite de oliva\n
+3 colheres (de sopa) do óleo da ostra\n
+1 colher (de sopa) de suco de limão\n
+Manjericão a gosto\n\n
+    MODO DE PREPARO\n\n
+1.	Cozinhe o macarrão conforme as instruções da embalagem. Se tiver dúvidas veja esse post: Como Cozinhar Macarrão\n
+2.	Coloque o macarrão cozido em uma saladeira, ele pode ainda estar morno.\n
+3.	Coloque as ostras, as azeitonas e os tomates. Reserve.\n
+4.	Em uma tigelinha coloque o azeite, o óleo da ostra, o suco de limão, o sal e a pimenta do reino. Misture muito bem.\n
+5.	Coloque o molho no macarrão e misture muito bem. Acrescente o cheiro verde picado, misture novamente e por fim cubra e leve à geladeira para ficar fresca.\n
+6.	Coloque folhinhas de manjericão na hora de servir.\n\n
+
+Fonte:http://www.aquinacozinha.com/salada-de-macarrao-com-ostra-defumada/\n
+
+</string>
+
+    <string name="receita_05_ostra_a_moda_do_chefe_texto">
+INGREDIENTES\n
+        * a gosto de ostras frescas\n
+1 unidade de cebola picada\n
+150 ml de vinho branco\n
+100 ml de vinagre de vinho branco\n
+* a gosto de sal\n
+* a gosto de pimenta do reino\n
+125 gramas de manteiga gelada, em pedacinhos\n\n
+MODO DE PREPARO\n\n
+Abra as ostras, verifique se estão em perfeito estado (textura e odor) e as leve à panela de cozimento a vapor por dois minutos. Para o molho beurre blanc, leve ao fogo a cebola, o vinho e o vinagre até reduzir. Abaixe a chama do fogão e acrescente a manteiga gelada. Emulsione até obter a consistência de um creme. Retire do fogo e despeje o beurre blancsobre as ostras. Leve-as à salamandra até que dourem. Sirva sob uma camada de sal grosso.
+Leia mais em: https://www.gazetadopovo.com.br/bomgourmet/receitas-pratos/ostras-moda-chef/\n\n
+Fonte: https://www.gazetadopovo.com.br/bomgourmet/receitas-pratos/ostras-moda-chef/
+
+
+    </string>
+
+    <string name="termo_de_uso">Todas as informações que você fornecer neste
+        formulário tem o único intuito de criar uma base de ideias para futuras
+        pesquisas relacionadas a aquicultura, em nenhuma hipótese suas informações
+        de contato serão usadas para outros fins.</string>
+
+</resources>

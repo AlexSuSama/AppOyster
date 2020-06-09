@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <!-- Lista com todos as actions -->
+        <item
+            android:id="@+id/nav_item_curiosidades"
+            android:checked="true"
+            android:icon="@drawable/icons_regras"
+            android:title="@string/curiosidades" />
+
+   <!--     <item
+            android:id="@+id/nav_item_ostraVidaUtil"
+            android:checked="true"
+            android:icon="@drawable/icons_documento"
+            android:title="@string/ostraVidaUtil" />
+-->
+        <item
+            android:id="@+id/nav_item_tamanho"
+            android:checked="true"
+            android:icon="@drawable/icons_documento"
+            android:title="@string/reiceitas" />
+        <!-- Lista com os carros de luxo -->
+        <item
+            android:id="@+id/nav_item_cuidados_ostra"
+            android:checked="true"
+            android:icon="@drawable/icons_agua"
+            android:title="@string/cuidados_ostra" />
+        <!-- WebView com informações sobre o livro -->
+        <item
+            android:id="@+id/nav_item_noticias"
+            android:icon="@drawable/icons_documento"
+            android:title="@string/historico" />
+        <item
+            android:id="@+id/nav_item_artigos"
+            android:icon="@drawable/icons_documento"
+            android:title="@string/artigos" />
+        <item
+            android:id="@+id/nav_item_banco_de_ideias"
+            android:icon="@drawable/icons_ideia"
+            android:title="@string/banco_de_ideias" />
+        <!-- Tela de configurações -->
+        <item
+            android:id="@+id/nav_item_settings"
+            android:icon="@drawable/ic_drawer_settings"
+            android:title="@string/configuracoes" />
+    </group>
+</menu>

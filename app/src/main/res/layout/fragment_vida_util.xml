@@ -1,0 +1,194 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="br.navegasaberes.app.fragments.VidaUtilFragment">
+
+    <!--<android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_vidaUtil"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>-->
+    <LinearLayout
+        android:layout_marginBottom="6dp"
+        android:background="@color/primaryLightColor"
+        android:layout_width="match_parent"
+        android:padding="4dp"
+        android:layout_height="48dp"
+
+
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tituloVidaUtilIntro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ostraVidaUtil"
+
+            android:textColor="@color/primaryTextColor"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+           <TextView
+
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:background="@color/secondaryLightColor"
+               android:padding="10dp"
+               android:textSize="14sp"
+               android:textColor="@color/secondaryTextColor"
+               android:textAlignment="center"
+               android:text="@string/vidautil_titulo_01"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vidautil_texto01"/>
+
+            <ImageView
+                android:src="@drawable/ostra_01"
+                android:layout_width="match_parent"
+
+                android:layout_height="240dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/secondaryLightColor"
+                android:padding="10dp"
+                android:textSize="14sp"
+                android:textColor="@color/secondaryTextColor"
+                android:textAlignment="center"
+                android:text="@string/vidautil_titulo_02"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vidautil_texto02"/>
+            <ImageView
+                android:src="@drawable/ostra_02"
+                android:layout_width="match_parent"
+                android:layout_height="240dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vidautil_titulo_03"
+                android:background="@color/secondaryLightColor"
+                android:textSize="14sp"
+                android:textColor="@color/secondaryTextColor"
+                android:textAlignment="center"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vidautil_texto03"/>
+            <ImageView
+                android:src="@drawable/ostra_03"
+                android:layout_width="match_parent"
+                android:layout_height="240dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vidautil_titulo_04"
+                android:background="@color/secondaryLightColor"
+                android:textColor="@color/secondaryTextColor"
+                android:textSize="14sp"
+                android:textAlignment="center"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vidautil_texto04"/>
+            <ImageView
+                android:src="@drawable/ostra_04"
+                android:layout_width="match_parent"
+                android:layout_height="240dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/secondaryLightColor"
+                android:padding="10dp"
+                android:textSize="14sp"
+                android:textColor="@color/secondaryTextColor"
+                android:textAlignment="center"
+                android:text="@string/vidautil_titulo_05"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vidautil_texto05"/>
+            <ImageView
+                android:src="@drawable/ostra_05"
+                android:layout_width="match_parent"
+                android:layout_height="240dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/secondaryLightColor"
+                android:padding="10dp"
+                android:textSize="14sp"
+                android:textColor="@color/secondaryTextColor"
+                android:textAlignment="center"
+                android:text="@string/vidautil_titulo_06"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vidautil_texto06"/>
+            <ImageView
+                android:src="@drawable/ostra_08"
+                android:layout_width="match_parent"
+                android:layout_height="240dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/secondaryLightColor"
+                android:padding="10dp"
+                android:textSize="14sp"
+                android:textColor="@color/secondaryTextColor"
+                android:textAlignment="center"
+                android:text="@string/vidautil_titulo_07"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vidautil_texto07"/>
+            <ImageView
+                android:src="@drawable/ostra_09"
+                android:layout_width="match_parent"
+                android:layout_height="240dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/secondaryLightColor"
+                android:padding="10dp"
+                android:textSize="15sp"
+                android:textColor="@color/secondaryTextColor"
+                android:textAlignment="center"
+                android:text="@string/vidautil_titulo_08"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vidautil_texto08"/>
+            <ImageView
+                android:src="@drawable/ostra_10"
+                android:layout_width="match_parent"
+                android:layout_height="240dp" />
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>
